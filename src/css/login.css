@@ -1,0 +1,15 @@
+
+.blueBackground {
+    height: 496px;
+    width: 318px;
+    background:linear-gradient(to bottom, #0C293E 70%, #1D7BBE 100%);
+    flex:1;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+h1 {
+    color:white
+}
